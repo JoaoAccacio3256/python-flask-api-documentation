@@ -1355,7 +1355,7 @@ Clique em `Send` para atualizar a data do atendimento.
 
 ---
 
-## 21. Limitações e considerações para ambientes de produção
+## 20. LIMITAÇÕES E CONSIDERAÇÕES PARA AMBIENTES DE PRODUÇÃO
 
 Este projeto foi desenvolvido com finalidade educacional, priorizando a simplicidade e a demonstração dos conceitos de desenvolvimento de APIs com Flask e PostgreSQL. Por esse motivo, algumas implementações foram simplificadas e não devem ser reproduzidas sem adaptações em ambientes profissionais.
 
@@ -1381,7 +1381,7 @@ Essas limitações não comprometem a finalidade didática do projeto, mas repre
 
 ---
 
-## CONSIDERAÇÕES FINAIS
+## 21. CONSIDERAÇÕES FINAIS
 
 Esta documentação apresentou o desenvolvimento e os testes de uma API REST utilizando Python, Flask e PostgreSQL, abordando autenticação JWT, operações CRUD, relacionamentos entre tabelas e consultas SQL.
 
